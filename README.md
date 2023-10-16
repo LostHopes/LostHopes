@@ -1,6 +1,5 @@
-Hi there!👨🏽‍💻
-
-#### Here are statistics about my public repos:
+Hi there!👨🏽‍💻 
+### Here are statistics about my public repos:
 
 ![](https://komarev.com/ghpvc/?username=LostHopes&color=blue)
 
