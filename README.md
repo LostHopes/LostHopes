@@ -1,6 +1,4 @@
-### Hi there!👨🏽‍💻
-
-# I'm glad to see you on my GitHub page
+Hi there!👨🏽‍💻
 
 #### Here are statistics about my public repos:
 
