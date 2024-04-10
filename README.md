@@ -4,7 +4,7 @@
 - Programming languages: C, Python, PHP, Java, JavaScript;
 - Web frameworks: Flask, Django, Spring;
 - Databases: SQLite, MySQL, PostgreSQL, Redis.
-- Other technologies: HTML, CSS, Bash, Linux, GNU make, Docker.
+- Other technologies: HTML, CSS, Bash, Linux, Git, GNU make, Docker.
 
 ## Here are statistics about my public repos:
 
