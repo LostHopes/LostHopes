@@ -1,10 +1,11 @@
 # Hi there!👨🏽‍💻
 
- My tech stack:
+ My skills:
 - Programming languages: C, Python, PHP, Java, JavaScript;
-- Web frameworks: Flask, Django, Spring;
-- Databases: SQLite, MySQL, PostgreSQL, Redis.
-- Other technologies: HTML, CSS, Bash, Linux, Git, GNU make, Docker.
+- Web frameworks: Flask, Django, Spring, Hugo;
+- Databases: SQLite, MySQL, PostgreSQL, Redis;
+- Other technologies: HTML, CSS, Bash, Linux, Git, GNU make, Docker;
+- Technologies to learn or currently learning: Go, React, Electron.
 
 ## Here are statistics about my public repos:
 
